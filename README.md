@@ -5,7 +5,8 @@ This repository contains code for encrypting and decrypting images using a hybri
 ## Features
 
 - Encrypt an image using a hybrid encryption scheme combining AES-128 and ChaCha20 ciphers
-- Decrypt the encrypted image to retrieve the original image 
+- Utilized the pycryptodome library for cryptographic operations, ensuring reliable and efficient encryption and decryption processes.
+- Contributed to image security by providing a practical solution for encrypting and decrypting images using hybrid encryption techniques.
 - Save the encrypted and decrypted images in the same format as the original image
 
 ## Prerequisites
